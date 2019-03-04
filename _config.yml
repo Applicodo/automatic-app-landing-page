@@ -52,7 +52,7 @@ features                                  :
     fontawesome_icon_name                 : tablet-alt
   
   - title                                 : Multiple languange support
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    description                           : English, French, German, Hungarian, Italian, Portuguese, Romanian, Russian, Simplified Chinese, Spanish, Swedish, Traditional Chinese.
     fontawesome_icon_name                 : flag
 
 
